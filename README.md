@@ -11,7 +11,9 @@
 4) 修改“你的HKGAuth token”做你嘅token
 5) Enter執行
 
-示範影片：
+### 舊版本免用API hkg-autobookmark_old.js
+
+## 示範影片：
 
 https://github.com/user-attachments/assets/14f00f25-e940-43ab-8936-d032d8e85f53
 
