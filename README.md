@@ -5,9 +5,11 @@
 高登新網頁 [https://forum.hkgolden.com/user/xxxxxxx/posthistory](https://forum.hkgolden.com/user/xxxxxxx/posthistory)
 
 ## 使用方式
-1) 入去你嘅個人起底
-2) F12去console
-3) 將個hkg-autobookmark.js嘅code貼上並執行
+// 1) 入去你嘅個人起底
+// 2) F12去console
+// 3) 將個js嘅code貼上
+// 4) 修改“你的HKGAuth token”做你嘅token
+// 5) Enter執行
 
 示範影片：
 
